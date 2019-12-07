@@ -1,0 +1,4 @@
+{"phthon.linting.flake8Enabled" : true,
+"python.formatting.provider": "yapf",
+"phthon.linting.flake8Args" : ["-max-line-length=248"],
+"phthon.linting.pylintEnballed" : false}
